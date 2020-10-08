@@ -13,4 +13,3 @@ burger.addEventListener('click', function(){
    ionIcon.classList.toggle("z0");
 });
 
-// .section__content-info h1, .section__content-info h4
